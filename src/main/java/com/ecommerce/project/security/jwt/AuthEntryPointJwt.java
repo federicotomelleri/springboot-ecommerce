@@ -1,4 +1,4 @@
-package com.example.securitydemo.jwt;
+package com.ecommerce.project.security.jwt;
 
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
